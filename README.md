@@ -1,6 +1,6 @@
 # Gender-Recognition-Using-Deep-Learning: Overview
 
-* This project implements a Convolutional Neural Network which is trained on a dataset of images separated by gender.
+* This project implements a simple Convolutional Neural Network which is trained on a dataset of images separated by gender.
 
 * A web cam application is also implemented to capture faces off the video stream and classify them as either man or woman. 
 
@@ -9,6 +9,8 @@
 
 
 # Code and Dependancies
-* Python Version: 3.7
+**Python Version:** 3.7
 
-* Packages: 
+**Packages:** numpy, pandas, matplotlib, glob, scikit-learn, tensorflow, OpenCV, cvlib
+
+
